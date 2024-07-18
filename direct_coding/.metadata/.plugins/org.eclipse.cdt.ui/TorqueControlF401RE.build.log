@@ -1,0 +1,10 @@
+00:01:15 **** Incremental Build of configuration Debug for project TorqueControlF401RE ****
+make -j20 all 
+arm-none-eabi-size  TorqueControlF401RE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33684	    564	   2408	  36656	   8f30	TorqueControlF401RE.elf
+Finished building: default.size.stdout
+ 
+
+00:01:16 Build Finished. 0 errors, 0 warnings. (took 431ms)
+
